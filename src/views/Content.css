@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content__left {
+    flex: 0.3;
+}
+
+.content__feed {
+    flex: 0.3;
+}
+
+.content__right {
+    flex: 0.3;
+}
